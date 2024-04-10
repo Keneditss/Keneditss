@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working as Freelancing ...
 - 💞️ I’m looking for longterm client ...
-- 📫 How to reach me here :dizoken@gmail.com
+- 📫 How to reach me here :dizoken4@gmail.com
 
 <!---
 Keneditss/Keneditss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
